@@ -1,3 +1,1 @@
-# Kokoa clone 2021 lecture
-
-HTML & CSS are so much fun
+@ 카카오톡 클론 CSS + HTML 연습!
